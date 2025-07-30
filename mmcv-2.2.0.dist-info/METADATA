@@ -1,21 +1,18 @@
 Metadata-Version: 2.4
 Name: mmcv
-Version: 2.2.0
+Version: 2.2.0.kace.v0.2
 Summary: OpenMMLab Computer Vision Foundation
 Home-page: https://github.com/open-mmlab/mmcv
-Author: MMCV Contributors
-Author-email: openmmlab@gmail.com
+Author: MMCV Contributors (edited by Morgan LE TREUST)
+Author-email: openmmlab@gmail.com (edited by morgan@letreust.fr)
 Keywords: computer vision
 Classifier: Development Status :: 4 - Beta
 Classifier: License :: OSI Approved :: Apache Software License
 Classifier: Operating System :: OS Independent
 Classifier: Programming Language :: Python :: 3
-Classifier: Programming Language :: Python :: 3.7
-Classifier: Programming Language :: Python :: 3.8
-Classifier: Programming Language :: Python :: 3.9
 Classifier: Programming Language :: Python :: 3.10
 Classifier: Topic :: Utilities
-Requires-Python: >=3.7
+Requires-Python: >=3.10
 License-File: LICENSE
 License-File: LICENSES.md
 Requires-Dist: addict
