@@ -1,5 +1,5 @@
 # Copyright (c) OpenMMLab. All rights reserved.
-__version__ = '2.2.0.kace.v0.2'
+__version__ = '2.2.0'
 
 
 def parse_version_info(version_str: str, length: int = 4) -> tuple:
